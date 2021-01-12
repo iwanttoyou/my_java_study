@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\jdk-11.0.2\\lib\\jrt-fs.jar"
+    ]
+}
